@@ -1,0 +1,36 @@
+🚀 AI Learning Journey – Episode 3: Search Engines vs LLMs 🤖
+
+Today, I went through Episode 3, and one concept that really stood out to me was understanding the difference between how Search Engines and LLMs like ChatGPT work.
+
+Before this, I mostly thought of them as different ways of getting answers. But understanding what happens behind the scenes made the difference much clearer.
+
+🔍 Search Engine – Retrieving Information
+
+A search engine primarily works by finding and retrieving relevant information from an existing index:
+
+Question → Search the Index → Rank Relevant Documents → Retrieve Results
+
+🤖 ChatGPT / LLM – Generating Information
+
+An LLM works differently. It learns patterns from huge amounts of training data and generates text based on those learned patterns:
+
+Prompt → Learn Patterns → Predict Next Token → Generate Response
+
+🧠 Base Model
+
+I also learned about the Base Model — a model created by training neural networks on massive amounts of data.
+
+At its core, one of the fundamental tasks of a base language model is:
+
+👉 Predict the next token/text based on the context.
+
+⚙️ Training vs Inference
+
+Another important concept I learned:
+
+🔹 Training – This is where the model learns from massive amounts of data by using significant computational resources and GPUs, adjusting its parameters to learn patterns. It is a highly compute-intensive and time-consuming process.
+
+🔹 Inference – This is what happens when we give a trained model a prompt. The model uses what it has learned during training to generate a response.
+
+
+The more I learn about AI, the more fascinating it becomes to understand what actually happens behind the scenes instead of just using these tools.
