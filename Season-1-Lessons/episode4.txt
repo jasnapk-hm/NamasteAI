@@ -1,0 +1,19 @@
+🚀 AI Learning Journey – Episode 4: The Secret Language of LLMs 🤖
+
+Today, I went through Episode 4 of the Namaste AI course, where I learned about an important concept in LLMs — TOKENS 🧩
+
+
+🔹 What are Tokens?
+Every prompt we give to an LLM is first converted into tokens.
+Tokens are small units of text, which can be words, parts of words, characters, or symbols.
+
+🔹 Tokenizer
+A tokenizer is responsible for converting our text into tokens. These tokens are then represented as numbers so that the model can process them.
+
+🔹 Vocabulary
+Every LLM has its own tokenizer, and each tokenizer has a vocabulary.
+Vocabulary is basically the collection of tokens that the tokenizer knows.
+
+🔹 Context Window
+The context window is the maximum amount of information an LLM can handle at a time — including what we send as input and what the model generates as output.
+
