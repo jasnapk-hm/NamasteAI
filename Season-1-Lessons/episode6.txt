@@ -1,0 +1,39 @@
+🚀 AI Learning Journey – Episode 6: Understanding Neural Networks 🤖
+
+Today, I completed Episode 6 of Namaste AI, where I explored Neural Networks and Transformers and got a deeper understanding of how an LLM predicts the next word.
+
+Here are the key concepts I learned:
+
+🔹 Transformers – The architecture behind modern LLMs.A transformer that process information using attention.
+
+🔹 How LLMs Predict the Next Word – Understanding how input tokens move through different layers and eventually help the model predict the next token.
+
+🔹 Layer Normalization – Helps stabilize the values flowing through the network.
+
+🔹 Multi-Head Causal Self-Attention – Helps the model understand relationships between tokens while ensuring it only looks at the previous and current tokens when predicting the next one.
+
+🔹 Residual / Skip Connections – Instead of completely replacing the old information with the output of the layer we add original input back to the layered output.
+
+🔹 Feed Forward Network – each token processed independently.
+Self attention -token interact with each other.
+
+🔹 Linear Layer – Converts the processed representation into scores for possible next tokens.
+
+🔹 Softmax – Converts those scores into probabilities for the possible next tokens.
+
+ A big thanks to Brendan Bycroft for the 3D visualisation of the architecture.
+
+LLM Visualization https://lnkd.in/gE2wY5N9
+
+
+💡 Simple Transformer Takeaway:
+
+A Transformer takes the tokens we give it, understands how they relate to each other using attention, processes that information through neural network layers, and finally predicts what token should come next.
+
+In simple words:
+
+Input → Attention → Processing → Probabilities → Next Token 🔄
+
+From understanding the individual components to seeing how they work together, I'm slowly getting a clearer picture of what happens inside an LLM. 🧠✨
+
+Every episode makes AI a little more interesting! 🚀

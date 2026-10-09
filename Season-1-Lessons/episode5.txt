@@ -1,0 +1,35 @@
+🚀 AI Learning Journey – Episode 5: How Does a Machine Represent Meaning? 🤖
+
+Today, I completed Episode 5 of Namaste AI, where I learned how machines represent and understand meaning using vectors and embeddings.
+
+Here are some key concepts I learned:
+
+🔹 Vectorization
+The process of converting information into a numerical vector (an array of numbers).
+Why numbers? Because machines can perform mathematical operations on numerical representations.
+
+🔹 Dimensions
+When information is converted into a vector, different characteristics or properties are represented as dimensions.
+
+🔹 Embedding
+A learned numerical representation of information that captures useful relationships between different items.
+
+🔹 Semantic Similarity
+Embeddings help machines identify how closely related two pieces of information are based on their meaning.
+
+🔹 Token Embedding vs Text Embedding
+
+Token Embedding:
+A token ID, which is just an identifier, is mapped to a meaningful numerical vector.
+
+Text Embedding:
+An entire sentence or piece of text is represented as a numerical vector that captures its meaning.
+
+The basic flow I understood:
+
+Text → Tokens → Embeddings
+
+I also experimented with the TensorFlow Embedding Projector to explore embeddings and understand how these vectors can be visualized. 
+Please do check the link: https://lnkd.in/gSBGx7s8
+
+Every episode is making AI concepts more understandable through practical examples and explanations.
